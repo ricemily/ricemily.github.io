@@ -2,10 +2,29 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+TOOL: Tableau, Python (seaborn, matplotlib)
+
+DATA: profile of customer base (basic demographic variables, payment methods, individual services, add-ons, tenure, churn)
+
+METHODOLOGY:  (in presentation)
+
+VIDEO: 
+
+https://www.loom.com/share/410...
+
+Products of Leaving Customers:  https://www.loom.com/share/eb9...
+
+RESULTS:
+https://public.tableau.com/app/profile/emily.rice1411/viz/telecom_marketing/TELECOM
+
+PYTHON FILES: 
+data_analysis/presentations at data_analysis · ricemily/data_analysis (github.com)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
